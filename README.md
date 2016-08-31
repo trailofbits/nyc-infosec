@@ -71,6 +71,6 @@ permalink: index.html
 * Yahoo!
 * Every Bank (Goldman, JPM, NY Fed, etc)
 
-# Calendar
+# [Calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York)
 
 <iframe src="https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
