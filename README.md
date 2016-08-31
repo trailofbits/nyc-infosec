@@ -2,54 +2,55 @@
 
 ## Meetups
 
-* Empire Hacking
-* NCC Open Forum NYC
-* NY Enterprise Information Security
-* NYM ISSA
+* [Empire Hacking](https://www.meetup.com/Empire-Hacking/)
+* [NCC Open Forum NYC](https://www.meetup.com/NCCOpenForumNYC/)
+* [NY Enterprise Information Security](https://www.meetup.com/NY-Enterprise-Information-Security-Meetup/)
+* [NYM ISSA](https://www.nymissa.org/)
 * NYSEC
-* OWASP NYC
+* [OWASP NYC](https://www.meetup.com/owaspnycmetro/)
 
 ## Conferences
 
-* International Conference on Cyber Security (July)
-* SummerCon (July)
-* AT&T Cybersecurity (October)
-* NY Metro Joint Cyber Security Conference (October)
-* O’Reilly Security (October)
-* CSAW (November)
+* [International Conference on Cyber Security](http://iccs.fordham.edu/) (July)
+* [SummerCon](http://summercon.org/) (July)
+* [AT&T Cybersecurity](https://www.att.com/att/securityconference/) (October)
+* [NY Metro Joint Cyber Security Conference](http://nymjcsc.org/) (October)
+* [O’Reilly Security](http://conferences.oreilly.com/security/network-data-security-ny) (October)
+* [CSAW](https://csaw.engineering.nyu.edu/) (November)
 
 # Companies
 
 ## Consulting
 
-* Aspect Security
-* Bishop Fox
-* Carbon Dynamics
-* Carve Systems
-* Gotham Digital Science
-* Include Security
-* Kroll
-* LIFARS
-* Virtue Security
+* [Aspect Security](http://www.aspectsecurity.com/)
+* [Bishop Fox](https://www.bishopfox.com/)
+* [Carbon Dynamics](http://www.carbondynamics.co/)
+* [Carve Systems](https://www.carvesystems.com/)
+* [Gotham Digital Science](https://www.gdssecurity.com/)
+* [Include Security](http://www.includesecurity.com/)
+* [Kroll](http://www.kroll.com/en-us)
+* [LIFARS](https://lifars.com/)
+* [Stroz Freidberg](https://www.strozfriedberg.com/)
+* [Virtue Security](http://www.virtuesecurity.com/)
 
 ## Research & Development
 
-* Reservoir Labs
-* Trail of Bits
+* [Reservoir Labs](https://www.reservoir.com/)
+* [Trail of Bits](https://www.trailofbits.com/)
 
 ## Products
 
-* Canary
-* Drawbridge Networks
-* Hypr Biometric Security
-* PhishMe
-* Red Balloon Security
-* Security Scorecard
-* SendSafely
-* White Ops
+* [Canary](https://canary.is/)
+* [Drawbridge Networks](http://www.drawbridge.io/)
+* [Hypr Biometric Security](https://www.hypr.com/)
+* [PhishMe](http://phishme.com/)
+* [Red Balloon Security](https://www.redballoonsecurity.com/)
+* [Security Scorecard](https://securityscorecard.com/)
+* [SendSafely](https://www.sendsafely.com/)
+* [White Ops](http://www.whiteops.com/)
 
 ## Other
-* LJ Kushner & Associates
+* [LJ Kushner & Associates](http://ljkushner.com/)
 
 ## Security Teams
 * Amazon
