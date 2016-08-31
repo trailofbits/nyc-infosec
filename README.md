@@ -66,6 +66,7 @@ permalink: index.html
 * Gemini
 * Google
 * Square
+* Squarespace
 * Tumblr
 * Yahoo!
 * Every Bank (Goldman, JPM, NY Fed, etc)
