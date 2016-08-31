@@ -28,7 +28,6 @@ permalink: index.html
 ## Consulting
 
 * [Aspect Security](http://www.aspectsecurity.com/)
-* [Bishop Fox](https://www.bishopfox.com/)
 * [Carbon Dynamics](http://www.carbondynamics.co/)
 * [Carve Systems](https://www.carvesystems.com/)
 * [Gotham Digital Science](https://www.gdssecurity.com/)
