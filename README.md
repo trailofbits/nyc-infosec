@@ -3,7 +3,7 @@ layout: default
 permalink: index.html
 ---
 
-# [Events](#events)
+# Events
 
 ## Meetups
 
@@ -23,7 +23,7 @@ permalink: index.html
 * [O’Reilly Security](http://conferences.oreilly.com/security/network-data-security-ny) (October)
 * [CSAW](https://csaw.engineering.nyu.edu/) (November)
 
-# [Companies](#companies)
+# Companies
 
 ## Consulting
 
