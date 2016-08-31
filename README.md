@@ -1,3 +1,8 @@
+---
+layout: default
+permalink: index.html
+---
+
 # Events
 
 ## Meetups
