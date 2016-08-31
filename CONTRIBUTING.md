@@ -1,4 +1,6 @@
-All entries are listed in alphabetical order
+## General
+
+* All entries are listed in alphabetical order
 
 ## Events
 
