@@ -24,6 +24,11 @@ permalink: index.html
 * [O’Reilly Security](http://conferences.oreilly.com/security/network-data-security-ny) (October)
 * [CSAW](https://csaw.engineering.nyu.edu/) (November)
 
+## [Event Calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York)
+
+<iframe src="https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
 # Companies
 
 ## Consulting
@@ -70,7 +75,3 @@ permalink: index.html
 * Tumblr
 * Yahoo!
 * Every Bank (Goldman, JPM, NY Fed, etc)
-
-# [Calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York)
-
-<iframe src="https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
