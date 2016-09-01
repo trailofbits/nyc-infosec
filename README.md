@@ -10,6 +10,7 @@ permalink: index.html
 * [Empire Hacking](https://www.meetup.com/Empire-Hacking/)
 * [NCC Open Forum NYC](https://www.meetup.com/NCCOpenForumNYC/)
 * [NY Enterprise Information Security](https://www.meetup.com/NY-Enterprise-Information-Security-Meetup/)
+* [NYM ISACA](http://www.isaca.org/chapters2/New-York-Metropolitan/Pages/default.aspx)
 * [NYM ISSA](https://www.nymissa.org/)
 * NYSEC
 * [OWASP NYC](https://www.meetup.com/owaspnycmetro/)
