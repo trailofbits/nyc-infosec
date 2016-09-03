@@ -75,3 +75,11 @@ permalink: index.html
 * Tumblr
 * Yahoo!
 * Every Bank (Goldman, JPM, NY Fed, etc)
+
+# Universities
+
+* Columbia University [School of Engineering and Applied Science](https://www.cs.columbia.edu/areas/security-privacy/)
+* Cornell Tech [Security Group](http://tech.cornell.edu/research/security-privacy/security-group)
+* Fordham University [Computer and Information Science](http://www.fordham.edu/info/25706/master_of_science_in_cybersecurity)
+* NYIT [School of Engineering & Computing Sciences](http://www.nyit.edu/degrees/information_network_computer_security)
+* NYU Schools of [Engineering](http://engineering.nyu.edu/academics/programs/cybersecurity-ms) and [Law](http://www.lawandsecurity.org/)
