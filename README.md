@@ -7,7 +7,7 @@ permalink: index.html
 
 ## Meetups
 
-* [Empire Hacking](https://www.meetup.com/Empire-Hacking/)
+* [Empire Hacking](https://www.empirehacking.nyc)
 * [NCC Open Forum NYC](https://www.meetup.com/NCCOpenForumNYC/)
 * [NY Enterprise Information Security](https://www.meetup.com/NY-Enterprise-Information-Security-Meetup/)
 * [NYM ISACA](http://www.isaca.org/chapters2/New-York-Metropolitan/Pages/default.aspx)
