@@ -19,6 +19,7 @@ permalink: index.html
 
 * [International Conference on Cyber Security](http://iccs.fordham.edu/) (July)
 * [SummerCon](http://summercon.org/) (July)
+* [NYIT Cybersecurity Conference](http://www.nyit.edu/events/annual_cybersecurity_conference) (September)
 * [AT&T Cybersecurity](https://www.att.com/att/securityconference/) (October)
 * [NY Metro Joint Cyber Security Conference](http://nymjcsc.org/) (October)
 * [O’Reilly Security](http://conferences.oreilly.com/security/network-data-security-ny) (October)
@@ -94,7 +95,7 @@ permalink: index.html
 
 ### Cardozo Law
 
-* [Cardozo Data Law Initiative](https://cardozo.yu.edu/CDLI)
+* [Cardozo Data Law Initiative](https://cardozo.yu.edu/CDLI) (CDLI)
 
 ### Cornell Tech
 
