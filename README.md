@@ -23,7 +23,7 @@ permalink: index.html
 * [AT&T Cybersecurity](https://www.att.com/att/securityconference/) (October)
 * [NY Metro Joint Cyber Security Conference](http://nymjcsc.org/) (October)
 * [O’Reilly Security](http://conferences.oreilly.com/security/network-data-security-ny) (October)
-* [CSAW](https://csaw.engineering.nyu.edu/) (November)
+* [NYU CSAW](https://csaw.engineering.nyu.edu/) (November)
 
 ## [Event Calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York)
 
