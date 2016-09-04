@@ -60,7 +60,7 @@ permalink: index.html
 * [SendSafely](https://www.sendsafely.com/)
 * [White Ops](http://www.whiteops.com/)
 
-## Other
+## Recruiting
 * [LJ Kushner & Associates](http://ljkushner.com/)
 
 ## Security Teams
