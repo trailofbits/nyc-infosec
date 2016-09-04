@@ -92,6 +92,10 @@ permalink: index.html
 * School of Law
   * [National Security Law](http://web.law.columbia.edu/national-security-law)
 
+### Cardozo Law
+
+* [Cardozo Data Law Initiative](https://cardozo.yu.edu/CDLI)
+
 ### Cornell Tech
 
 * [Security Group](http://tech.cornell.edu/research/security-privacy/security-group)
@@ -113,5 +117,5 @@ permalink: index.html
   * [OSIRIS Lab](http://osiris.cyber.nyu.edu/)
 * School of Law
   * [Center for Law & Security](http://www.lawandsecurity.org/)
-* Courant
+* Courant Institute
   * [Analysis of Computer Systems](http://www.cs.nyu.edu/acsys/)
