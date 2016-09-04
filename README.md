@@ -90,6 +90,7 @@ permalink: index.html
   * [International Security Policy](https://sipa.columbia.edu/academics/concentrations/international-security-policy)
 * School of Journalism
   * [Data Concentration Program](https://journalism.columbia.edu/data)
+  * [Journalism & Computer Science](https://journalism.columbia.edu/journalism-computer-science)
 * School of Law
   * [National Security Law](http://web.law.columbia.edu/national-security-law)
 
