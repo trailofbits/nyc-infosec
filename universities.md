@@ -1,6 +1,7 @@
 ---
 layout: default
 footer: a university
+permalink: /universities/
 ---
 
 # Universities
