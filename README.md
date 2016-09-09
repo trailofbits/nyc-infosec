@@ -13,7 +13,7 @@ footer: an event
 * [NY Enterprise Information Security](https://www.meetup.com/NY-Enterprise-Information-Security-Meetup/)
 * [NYM ISACA](http://www.isaca.org/chapters2/New-York-Metropolitan/Pages/default.aspx)
 * [NYM ISSA](https://www.nymissa.org/)
-* NYSEC
+* [NYSEC](https://twitter.com/nysecsec)
 * OWASP [NYC](https://www.meetup.com/owaspnycmetro/) and [Brooklyn](https://www.meetup.com/OWASP-Brooklyn/)
 
 ## Conferences
