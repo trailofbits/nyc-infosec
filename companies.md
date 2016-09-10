@@ -25,6 +25,7 @@ permalink: /companies/
 
 ## Products
 
+* [Backtrace](https://backtrace.io)
 * [Canary](https://canary.is/)
 * [Drawbridge Networks](http://www.drawbridge.io/)
 * [Hypr Biometric Security](https://www.hypr.com/)
