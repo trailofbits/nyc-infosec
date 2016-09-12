@@ -50,6 +50,7 @@ permalink: /companies/
 * Gemini
 * Google
 * NCC Group
+* Protiviti
 * Square
 * Squarespace
 * Tumblr
