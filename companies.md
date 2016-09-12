@@ -29,10 +29,12 @@ permalink: /companies/
 * [Canary](https://canary.is/)
 * [Drawbridge Networks](http://www.drawbridge.io/)
 * [Hypr Biometric Security](https://www.hypr.com/)
+* [IperLane](https://www.iperlane.com/)
 * [PhishMe](http://phishme.com/)
 * [Red Balloon Security](https://www.redballoonsecurity.com/)
 * [Security Scorecard](https://securityscorecard.com/)
 * [SendSafely](https://www.sendsafely.com/)
+* [UpLevel Security](http://www.uplevelsecurity.com/)
 * [White Ops](http://www.whiteops.com/)
 
 ## Recruiting
@@ -41,11 +43,13 @@ permalink: /companies/
 ## Security Teams
 * Amazon
 * BAE Systems
+* Bishop Fox
 * Bloomberg
 * Etsy
 * FireEye
 * Gemini
 * Google
+* NCC Group
 * Square
 * Squarespace
 * Tumblr
