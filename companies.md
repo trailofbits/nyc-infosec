@@ -8,7 +8,6 @@ permalink: /companies/
 
 ## Consulting
 
-* [Aspect Security](http://www.aspectsecurity.com/)
 * [Carbon Dynamics](http://www.carbondynamics.co/)
 * [Carve Systems](https://www.carvesystems.com/)
 * [Gotham Digital Science](https://www.gdssecurity.com/)
@@ -42,6 +41,7 @@ permalink: /companies/
 
 ## Security Teams
 * Amazon
+* Aspect Security
 * BAE Systems
 * Bishop Fox
 * Bloomberg
