@@ -49,6 +49,7 @@ permalink: /companies/
 * FireEye
 * Gemini
 * Google
+* MWR Security
 * NCC Group
 * Protiviti
 * Square
