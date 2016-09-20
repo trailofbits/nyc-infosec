@@ -12,6 +12,7 @@ permalink: /companies/
 * [Carve Systems](https://www.carvesystems.com/)
 * [Gotham Digital Science](https://www.gdssecurity.com/)
 * [Include Security](http://www.includesecurity.com/)
+* [K2 Intelligence](https://www.k2intelligence.com/)
 * [Kroll](http://www.kroll.com/en-us)
 * [LIFARS](https://lifars.com/)
 * [Stroz Freidberg](https://www.strozfriedberg.com/)
