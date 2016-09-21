@@ -6,6 +6,10 @@ permalink: /universities/
 
 # Universities
 
+### Cardozo Law
+
+* [Cardozo Data Law Initiative](https://cardozo.yu.edu/CDLI) (CDLI)
+
 ### Columbia University
 
 * School of Engineering and Applied Science (SEAS)
@@ -20,10 +24,6 @@ permalink: /universities/
   * [Journalism & Computer Science](https://journalism.columbia.edu/journalism-computer-science)
 * School of Law
   * [National Security Law](http://web.law.columbia.edu/national-security-law)
-
-### Cardozo Law
-
-* [Cardozo Data Law Initiative](https://cardozo.yu.edu/CDLI) (CDLI)
 
 ### Cornell Tech
 
@@ -41,10 +41,10 @@ permalink: /universities/
 
 ### New York University
 
+* Courant Institute
+  * [Analysis of Computer Systems](http://www.cs.nyu.edu/acsys/)
 * School of Engineering
   * [Cybersecurity, MS](http://engineering.nyu.edu/academics/programs/cybersecurity-ms)
   * [OSIRIS Lab](http://osiris.cyber.nyu.edu/)
 * School of Law
   * [Center for Law & Security](http://www.lawandsecurity.org/)
-* Courant Institute
-  * [Analysis of Computer Systems](http://www.cs.nyu.edu/acsys/)
