@@ -34,6 +34,7 @@ permalink: /companies/
 * [Red Balloon Security](https://www.redballoonsecurity.com/)
 * [Security Scorecard](https://securityscorecard.com/)
 * [SendSafely](https://www.sendsafely.com/)
+* [Socure](http://www.socure.com/)
 * [UpLevel Security](http://www.uplevelsecurity.com/)
 * [White Ops](http://www.whiteops.com/)
 
