@@ -10,6 +10,7 @@ permalink: /companies/
 
 * [Carbon Dynamics](http://www.carbondynamics.co/)
 * [Carve Systems](https://www.carvesystems.com/)
+* [CipherTechs](https://www.ciphertechs.com/)
 * [Gotham Digital Science](https://www.gdssecurity.com/)
 * [Include Security](http://www.includesecurity.com/)
 * [K2 Intelligence](https://www.k2intelligence.com/)
