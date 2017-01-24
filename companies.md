@@ -29,6 +29,7 @@ permalink: /companies/
 * [Backtrace](https://backtrace.io)
 * [Canary](https://canary.is/)
 * Capsule8
+* [Confide](https://getconfide.com/)
 * [Drawbridge Networks](http://www.drawbridge.io/)
 * [Flashpoint Intel](https://www.flashpoint-intel.com/)
 * [Hypr Biometric Security](https://www.hypr.com/)
