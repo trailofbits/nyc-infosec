@@ -36,6 +36,7 @@ permalink: /companies/
 * [IperLane](https://www.iperlane.com/)
 * [PhishMe](http://phishme.com/)
 * [Red Balloon Security](https://www.redballoonsecurity.com/)
+* [SecureMySocial](https://www.securemysocial.com/)
 * [Security Scorecard](https://securityscorecard.com/)
 * [SendSafely](https://www.sendsafely.com/)
 * [Socure](http://www.socure.com/)
