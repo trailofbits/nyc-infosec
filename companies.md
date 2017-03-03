@@ -29,6 +29,7 @@ permalink: /companies/
 * [Avanan](https://www.avanan.com/)
 * [Backtrace](https://backtrace.io)
 * [Canary](https://canary.is/)
+* [Capsule8](https://capsule8.io/)
 * [Confide](https://getconfide.com/)
 * [Drawbridge Networks](http://www.drawbridge.io/)
 * [Flashpoint Intel](https://www.flashpoint-intel.com/)
@@ -52,7 +53,6 @@ permalink: /companies/
 ## Security Teams
 * Amazon
 * Aspect Security
-* BAE Systems
 * Bishop Fox
 * Bloomberg
 * Etsy
