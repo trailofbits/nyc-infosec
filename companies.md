@@ -26,6 +26,7 @@ permalink: /companies/
 
 ## Products
 
+* [Avanan](https://www.avanan.com/)
 * [Backtrace](https://backtrace.io)
 * [Canary](https://canary.is/)
 * [Confide](https://getconfide.com/)
@@ -38,8 +39,11 @@ permalink: /companies/
 * [SecureMySocial](https://www.securemysocial.com/)
 * [Security Scorecard](https://securityscorecard.com/)
 * [SendSafely](https://www.sendsafely.com/)
+* [Siemplify](https://www.siemplify.co/)
 * [Socure](http://www.socure.com/)
+* [Spirion](http://www.spirion.com/)
 * [UpLevel Security](http://www.uplevelsecurity.com/)
+* [Varonis](https://www.varonis.com/)
 * [White Ops](http://www.whiteops.com/)
 
 ## Recruiting
