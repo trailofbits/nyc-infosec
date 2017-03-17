@@ -8,16 +8,16 @@ permalink: /companies/
 
 ## Consulting
 
-* [Carbon Dynamics](http://www.carbondynamics.co/)
+* [Carbon Dynamics](https://www.carbondynamics.co/)
 * [Carve Systems](https://www.carvesystems.com/)
 * [CipherTechs](https://www.ciphertechs.com/)
 * [Gotham Digital Science](https://www.gdssecurity.com/)
-* [Include Security](http://www.includesecurity.com/)
+* [Include Security](https://www.includesecurity.com/)
 * [K2 Intelligence](https://www.k2intelligence.com/)
 * [Kroll](http://www.kroll.com/en-us)
 * [LIFARS](https://lifars.com/)
 * [Stroz Freidberg](https://www.strozfriedberg.com/)
-* [Virtue Security](http://www.virtuesecurity.com/)
+* [Virtue Security](https://www.virtuesecurity.com/)
 
 ## Research & Development
 
@@ -31,22 +31,22 @@ permalink: /companies/
 * [Canary](https://canary.is/)
 * [Capsule8](https://capsule8.io/)
 * [Confide](https://getconfide.com/)
-* [Drawbridge Networks](http://www.drawbridge.io/)
+* [Drawbridge Networks](https://www.drawbridge.io/)
 * [Flashpoint Intel](https://www.flashpoint-intel.com/)
 * [Hypr Biometric Security](https://www.hypr.com/)
 * [IperLane](https://www.iperlane.com/)
-* [PhishMe](http://phishme.com/)
+* [PhishMe](https://phishme.com/)
 * [Private Machines](https://privatemachines.com/)
 * [Red Balloon Security](https://www.redballoonsecurity.com/)
 * [SecureMySocial](https://www.securemysocial.com/)
 * [Security Scorecard](https://securityscorecard.com/)
 * [SendSafely](https://www.sendsafely.com/)
 * [Siemplify](https://www.siemplify.co/)
-* [Socure](http://www.socure.com/)
-* [Spirion](http://www.spirion.com/)
-* [UpLevel Security](http://www.uplevelsecurity.com/)
+* [Socure](https://www.socure.com/)
+* [Spirion](https://www.spirion.com/)
+* [UpLevel Security](https://www.uplevelsecurity.com/)
 * [Varonis](https://www.varonis.com/)
-* [White Ops](http://www.whiteops.com/)
+* [White Ops](https://www.whiteops.com/)
 
 ## Recruiting
 * [LJ Kushner & Associates](http://ljkushner.com/)
