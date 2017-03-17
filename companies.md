@@ -36,6 +36,7 @@ permalink: /companies/
 * [Hypr Biometric Security](https://www.hypr.com/)
 * [IperLane](https://www.iperlane.com/)
 * [PhishMe](http://phishme.com/)
+* [Private Machines](https://privatemachines.com/)
 * [Red Balloon Security](https://www.redballoonsecurity.com/)
 * [SecureMySocial](https://www.securemysocial.com/)
 * [Security Scorecard](https://securityscorecard.com/)
