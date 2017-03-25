@@ -40,6 +40,7 @@ permalink: /companies/
 * [PhishMe](https://phishme.com/)
 * [Private Machines](https://privatemachines.com/)
 * [Red Balloon Security](https://www.redballoonsecurity.com/)
+* [Reval](https://www.reval.com/)
 * [SecureMySocial](https://www.securemysocial.com/)
 * [Security Scorecard](https://securityscorecard.com/)
 * [SendSafely](https://www.sendsafely.com/)
