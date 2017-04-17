@@ -8,6 +8,7 @@ permalink: /companies/
 
 ## Consulting
 
+* [Breaking Bits](https://breakingbits.com/)
 * [Carbon Dynamics](https://www.carbondynamics.co/)
 * [Carve Systems](https://www.carvesystems.com/)
 * [CipherTechs](https://www.ciphertechs.com/)
