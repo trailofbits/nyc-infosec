@@ -61,6 +61,7 @@ permalink: /companies/
 * BAE Systems
 * Bishop Fox
 * Bloomberg
+* Datadog
 * Etsy
 * FireEye
 * Gemini
