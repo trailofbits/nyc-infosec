@@ -33,7 +33,6 @@ permalink: /companies/
 * [Canary](https://canary.is/)
 * [Capsule8](https://capsule8.io/)
 * [Confide](https://getconfide.com/)
-* [Drawbridge Networks](https://www.drawbridge.io/)
 * [Dyadic Security](https://www.dyadicsec.com/)
 * [Flashpoint Intel](https://www.flashpoint-intel.com/)
 * [Hypr Biometric Security](https://www.hypr.com/)
