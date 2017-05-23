@@ -50,6 +50,7 @@ permalink: /companies/
 * [UpLevel Security](https://www.uplevelsecurity.com/)
 * [Varonis](https://www.varonis.com/)
 * [White Ops](https://www.whiteops.com/)
+* [Wickr](https://www.wickr.com/)
 
 ## Recruiting
 * [LJ Kushner & Associates](http://ljkushner.com/)
