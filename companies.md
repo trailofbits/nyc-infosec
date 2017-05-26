@@ -64,6 +64,7 @@ permalink: /companies/
 * Datadog
 * Etsy
 * FireEye
+* Flatiron Health
 * Gemini
 * Google
 * MongoDB
