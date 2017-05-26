@@ -70,15 +70,14 @@ permalink: /companies/
 * Every Bank ([Goldman](http://www.goldmansachs.com/), [JPM](https://www.jpmorgan.com/), [NY Fed](https://www.newyorkfed.org/), etc)
 
 ## Remote Offices
-* Amazon
-* Aspect Security
-* BAE Systems
-* Bishop Fox
-* FireEye
-* Google
-* Priceline.com
-* Protiviti
-* MWR InfoSecurity
-* NCC Group
-* Square
-* Yahoo!
+* [Amazon](https://www.amazon.com/)
+* [Aspect Security](http://www.aspectsecurity.com/)
+* [Bishop Fox](https://www.bishopfox.com/)
+* [FireEye](https://www.fireeye.com/)
+* [Google](https://www.google.com/)
+* [Priceline.com](https://www.priceline.com/)
+* [Protiviti](https://www.protiviti.com/)
+* [MWR InfoSecurity](https://www.mwrinfosecurity.com/)
+* [NCC Group](https://www.nccgroup.trust/us/)
+* [Square](https://squareup.com/)
+* [Yahoo!](https://www.yahoo.com/)
