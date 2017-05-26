@@ -1,13 +1,11 @@
-## General
+Within each category, entries are listed in alphabetical order.
 
-* All entries are listed in alphabetical order
+### Event Rules
 
-## Events
+1. It's not a meetup unless it's had two or more meetings.
+2. Events must be headquartered and take place in NYC.
 
-* Meetups must have had at least two recent meetings
-* Conferences must be headquartered in NYC
+### Company Rules
 
-## Companies
-
-* Companies must be headquartered in NYC
-* Security Teams must include 2+ security engineers in an NYC office together
+1. If it's not founded or headquartered in NYC, it's a remote office.
+2. It's not a team unless it has 2 or more security engineers in an office together.
