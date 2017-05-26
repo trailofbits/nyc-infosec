@@ -68,6 +68,7 @@ permalink: /companies/
 * Google
 * MWR InfoSecurity
 * NCC Group
+* The New York Times
 * Priceline.com
 * Protiviti
 * Square
