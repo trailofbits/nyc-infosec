@@ -56,18 +56,18 @@ permalink: /companies/
 * [LJ Kushner & Associates](http://ljkushner.com/)
 
 ## Security Teams
-* Betterment
-* Bloomberg
-* Datadog
-* Etsy
-* Flatiron Health
-* Gemini Trust
-* MongoDB
-* The New York Times
-* Squarespace
-* Tumblr
-* Two Sigma
-* Every Bank (Goldman, JPM, NY Fed, etc)
+* [Betterment](https://www.betterment.com/)
+* [Bloomberg](https://www.bloomberg.com/)
+* [Datadog](https://www.datadoghq.com/)
+* [Etsy](https://www.etsy.com/)
+* [Flatiron Health](https://www.flatiron.com/)
+* [Gemini Trust](https://gemini.com/)
+* [MongoDB](https://www.mongodb.com/)
+* [The New York Times](https://www.nytimes.com/)
+* [Squarespace](https://www.squarespace.com/)
+* [Tumblr](https://www.tumblr.com/)
+* [Two Sigma](https://twosigma.com/)
+* Every Bank ([Goldman](http://www.goldmansachs.com/), [JPM](https://www.jpmorgan.com/), [NY Fed](https://www.newyorkfed.org/), etc)
 
 ## Remote Offices
 * Amazon
