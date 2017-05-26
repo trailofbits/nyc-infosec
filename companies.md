@@ -56,26 +56,29 @@ permalink: /companies/
 * [LJ Kushner & Associates](http://ljkushner.com/)
 
 ## Security Teams
+* Betterment
+* Bloomberg
+* Datadog
+* Etsy
+* Flatiron Health
+* Gemini Trust
+* MongoDB
+* The New York Times
+* Squarespace
+* Tumblr
+* Two Sigma
+* Every Bank (Goldman, JPM, NY Fed, etc)
+
+## Remote Offices
 * Amazon
 * Aspect Security
 * BAE Systems
 * Bishop Fox
-* Bloomberg
-* Datadog
-* Etsy
 * FireEye
-* Flatiron Health
-* Gemini
 * Google
-* MongoDB
-* MWR InfoSecurity
-* NCC Group
-* The New York Times
 * Priceline.com
 * Protiviti
+* MWR InfoSecurity
+* NCC Group
 * Square
-* Squarespace
-* Tumblr
-* Two Sigma
 * Yahoo!
-* Every Bank (Goldman, JPM, NY Fed, etc)
