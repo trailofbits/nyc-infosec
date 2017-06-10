@@ -17,6 +17,7 @@ permalink: /companies/
 * [K2 Intelligence](https://www.k2intelligence.com/)
 * [Kroll](http://www.kroll.com/en-us)
 * [LIFARS](https://lifars.com/)
+* [OccamSec](http://www.occamsec.com)
 * [Stroz Freidberg](https://www.strozfriedberg.com/)
 * [Virtue Security](https://www.virtuesecurity.com/)
 
