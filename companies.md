@@ -60,6 +60,7 @@ permalink: /companies/
 * [Betterment](https://www.betterment.com/)
 * [Bloomberg](https://www.bloomberg.com/)
 * [Datadog](https://www.datadoghq.com/)
+* [DigitalOcean](https://www.digitalocean.com/)
 * [Etsy](https://www.etsy.com/)
 * [Flatiron Health](https://www.flatiron.com/)
 * [Gemini Trust](https://gemini.com/)
