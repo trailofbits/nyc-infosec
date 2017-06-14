@@ -75,6 +75,7 @@ permalink: /companies/
 * [Amazon](https://www.amazon.com/)
 * [Aspect Security](http://www.aspectsecurity.com/)
 * [Bishop Fox](https://www.bishopfox.com/)
+* [CrowdStrike](https://www.crowdstrike.com/)
 * [FireEye](https://www.fireeye.com/)
 * [Google](https://www.google.com/)
 * [Priceline.com](https://www.priceline.com/)
