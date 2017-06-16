@@ -64,6 +64,7 @@ permalink: /companies/
 * [Etsy](https://www.etsy.com/)
 * [Flatiron Health](https://www.flatiron.com/)
 * [Gemini Trust](https://gemini.com/)
+* [Jet.com](https://jet.com/)
 * [MongoDB](https://www.mongodb.com/)
 * [The New York Times](https://www.nytimes.com/)
 * [Squarespace](https://www.squarespace.com/)
