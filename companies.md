@@ -53,9 +53,6 @@ permalink: /companies/
 * [White Ops](https://www.whiteops.com/)
 * [Wickr](https://www.wickr.com/)
 
-## Recruiting
-* [LJ Kushner & Associates](http://ljkushner.com/)
-
 ## Security Teams
 * [Betterment](https://www.betterment.com/)
 * [Bloomberg](https://www.bloomberg.com/)
@@ -86,3 +83,15 @@ permalink: /companies/
 * [Signal Sciences](https://www.signalsciences.com)
 * [Square](https://squareup.com/)
 * [Yahoo!](https://www.yahoo.com/)
+
+## Recruiting
+* [LJ Kushner & Associates](http://ljkushner.com/)
+
+## Venture Funding and Accelerators
+* [Bessemer](https://www.bvp.com/)
+* [Bloomberg Beta](http://bloombergbeta.com/)
+* [ClearSky](http://www.clear-sky.com/)
+* [Evolution](http://www.evolutionequity.com/)
+* [Grand Central Tech](http://grandcentraltech.com/)
+* [Insight](https://www.insightpartners.com/)
+* [work-bench](https://www.work-bench.com/)
