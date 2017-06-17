@@ -1,6 +1,6 @@
 ---
 layout: default
-footer: investors
+footer: an investor
 permalink: /investors/
 ---
 
