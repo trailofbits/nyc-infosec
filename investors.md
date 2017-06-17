@@ -10,4 +10,4 @@ permalink: /investors/
 * [Evolution](http://www.evolutionequity.com/) (Lucas Nelson)
 * [hack/secure](https://www.hacksecure.org) (Dan Guido)
 * [Insight](https://www.insightpartners.com/) (Mike Triplett)
-* [work-bench](https://www.work-bench.com/) (Kelley Mak)
+* [Work-Bench](https://www.work-bench.com/) (Kelley Mak)
