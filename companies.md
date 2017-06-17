@@ -86,12 +86,3 @@ permalink: /companies/
 
 ## Recruiting
 * [LJ Kushner & Associates](http://ljkushner.com/)
-
-## Venture Funding and Accelerators
-* [Bessemer](https://www.bvp.com/)
-* [Bloomberg Beta](http://bloombergbeta.com/)
-* [ClearSky](http://www.clear-sky.com/)
-* [Evolution](http://www.evolutionequity.com/)
-* [Grand Central Tech](http://grandcentraltech.com/)
-* [Insight](https://www.insightpartners.com/)
-* [work-bench](https://www.work-bench.com/)
