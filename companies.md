@@ -64,6 +64,7 @@ permalink: /companies/
 * [Jet.com](https://jet.com/)
 * [MongoDB](https://www.mongodb.com/)
 * [The New York Times](https://www.nytimes.com/)
+* [Spotify](https://www.spotify.com/)
 * [Squarespace](https://www.squarespace.com/)
 * [Tumblr](https://www.tumblr.com/)
 * [Two Sigma](https://twosigma.com/)
