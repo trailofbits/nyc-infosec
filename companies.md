@@ -33,6 +33,7 @@ permalink: /companies/
 * [Backtrace](https://backtrace.io)
 * [Canary](https://canary.is/)
 * [Capsule8](https://capsule8.io/)
+* [Confiant](https://www.confiant.com/)
 * [Confide](https://getconfide.com/)
 * [Dyadic Security](https://www.dyadicsec.com/)
 * [Flashpoint Intel](https://www.flashpoint-intel.com/)
