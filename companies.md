@@ -35,6 +35,7 @@ permalink: /companies/
 * [Capsule8](https://capsule8.io/)
 * [Confiant](https://www.confiant.com/)
 * [Confide](https://getconfide.com/)
+* [Dashlane](https://www.dashlane.com/)
 * [Dyadic Security](https://www.dyadicsec.com/)
 * [Flashpoint Intel](https://www.flashpoint-intel.com/)
 * [Hypr Biometric Security](https://www.hypr.com/)
