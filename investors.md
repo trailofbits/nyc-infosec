@@ -15,5 +15,6 @@ permalink: /investors/
 * [Work-Bench](https://www.work-bench.com/) (Kelley Mak)
 
 # Accelerators
+* [FinTech Innovation Lab](http://fintechinnovationlab.com/new-york/)
 * [Grand Central Tech](http://grandcentraltech.com/)
 * [NYC Venture Fellows](http://nycventurefellows.org/)
