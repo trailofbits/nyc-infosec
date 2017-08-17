@@ -20,7 +20,6 @@ permalink: /companies/
 * [OccamSec](http://www.occamsec.com)
 * [Stroz Freidberg](https://www.strozfriedberg.com/)
 * [Virtue Security](https://www.virtuesecurity.com/)
-* [Zeppelin Solutions](https://zeppelin.solutions/)
 
 ## Research & Development
 
