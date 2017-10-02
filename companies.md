@@ -32,7 +32,6 @@ permalink: /companies/
 * [Allure Security](https://www.alluresecurity.com/)
 * [Avanan](https://www.avanan.com/)
 * [Backtrace](https://backtrace.io)
-* [Canary](https://canary.is/)
 * [Capsule8](https://capsule8.io/)
 * [Confiant](https://www.confiant.com/)
 * [Confide](https://getconfide.com/)
