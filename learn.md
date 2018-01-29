@@ -4,6 +4,8 @@ footer: an educational opportunity
 permalink: /learn/
 ---
 
+# Educational Institutions
+
 ## Bootcamps
 
 * [NPower](http://www.npower.org/Locations/New-York.aspx)
@@ -11,13 +13,11 @@ permalink: /learn/
 * [Securing Your Path](http://www.securingyourpath.com/)
 * [Year Up!](https://www.yearup.org/)
 
-## Educational Institutions
-
-### Cardozo Law
+## Cardozo Law
 
 * [Cardozo Data Law Initiative](https://cardozo.yu.edu/CDLI) (CDLI)
 
-### Columbia University
+## Columbia University
 
 * School of Engineering and Applied Science (SEAS)
   * [Security & Privacy Research Area](https://www.cs.columbia.edu/areas/security-privacy/)
@@ -32,21 +32,21 @@ permalink: /learn/
 * School of Law
   * [National Security Law](http://web.law.columbia.edu/national-security-law)
 
-### Cornell Tech
+## Cornell Tech
 
 * [Security Group](http://tech.cornell.edu/research/security-privacy/security-group)
 
-### Fordham University
+## Fordham University
 
 * School of Computer and Information Science (CIS)
   * [Cybersecurity, MS](http://www.fordham.edu/info/25706/master_of_science_in_cybersecurity)
 
-### New York Institute of Technology
+## New York Institute of Technology
 
 * School of Engineering & Computing Sciences
   * [Information, Network, & Computer Security, MS](http://www.nyit.edu/degrees/information_network_computer_security)
 
-### New York University
+## New York University
 
 * Courant Institute
   * [Analysis of Computer Systems](http://www.cs.nyu.edu/acsys/)
@@ -56,6 +56,6 @@ permalink: /learn/
 * School of Law
   * [Center for Law & Security](http://www.lawandsecurity.org/)
 
-### Recurse Center
+## Recurse Center
 
 * [Recurse Center](https://www.recurse.com)
