@@ -11,7 +11,7 @@ permalink: /learn/
 * [NPower](http://www.npower.org/Locations/New-York.aspx)
 * [Per Scholas](https://perscholas.org/apply/cybersecurity)
 * [Securing Your Path](http://www.securingyourpath.com/)
-* [Year Up!](https://www.yearup.org/)
+* [Year Up](https://www.yearup.org/)
 
 ## Cardozo Law
 
