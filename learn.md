@@ -1,10 +1,17 @@
 ---
 layout: default
-footer: a university
-permalink: /universities/
+footer: an educational opportunity
+permalink: /learn/
 ---
 
-# Universities
+## Bootcamps
+
+* [NPower](http://www.npower.org/Locations/New-York.aspx)
+* [Per Scholas](https://perscholas.org/apply/cybersecurity)
+* [Securing Your Path](http://www.securingyourpath.com/)
+* [Year Up!](https://www.yearup.org/)
+
+## Educational Institutions
 
 ### Cardozo Law
 
@@ -48,3 +55,7 @@ permalink: /universities/
   * [OSIRIS Lab](http://osiris.cyber.nyu.edu/)
 * School of Law
   * [Center for Law & Security](http://www.lawandsecurity.org/)
+
+### Recurse Center
+
+* [Recurse Center](https://www.recurse.com)
