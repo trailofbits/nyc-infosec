@@ -20,7 +20,7 @@ footer: an event
 ## Conferences
 
 * [BSides NYC](https://bsidesnyc.org/) (January)
-* [Hack NYC](https://www.empirehacking.nyc/archive/) (May)
+* [Hack NYC](https://q22018.hacknyc.com/en/) (May)
 * [International Conference on Cyber Security](http://iccs.fordham.edu/) (July)
 * [SummerCon](http://summercon.org/) (July)
 * [NYIT Cybersecurity Conference](http://www.nyit.edu/events/annual_cybersecurity_conference) (September)
