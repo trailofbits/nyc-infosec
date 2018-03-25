@@ -22,7 +22,7 @@ footer: an event
 * [BSides NYC](https://bsidesnyc.org/) (January)
 * [Hack NYC](https://q22018.hacknyc.com/en/) (May)
 * [International Conference on Cyber Security](http://iccs.fordham.edu/) (July)
-* [SummerCon](http://summercon.org/) (July)
+* [SummerCon](http://summercon.org/) (June)
 * [NYIT Cybersecurity Conference](http://www.nyit.edu/events/annual_cybersecurity_conference) (September)
 * [AT&T Cybersecurity](https://www.att.com/att/securityconference/) (October)
 * [NY Metro Joint Cyber Security Conference](http://nymjcsc.org/) (October)
