@@ -57,6 +57,8 @@ permalink: /learn/
   * [Center for Law & Security](http://www.lawandsecurity.org/)
 * School of Law / School of Engineering (Joint)
   * [Cybersecurity Risk and Strategy, MS](https://cybersecurity-strategy-masters.nyu.edu/)
+* School of Professional Studies
+  * [Diploma in Cyber Security](https://www.sps.nyu.edu/professional-pathways/diplomas/technology/cybersecurity.html)
 
 ## Recurse Center
 
