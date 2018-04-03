@@ -67,6 +67,4 @@ permalink: /learn/
 ## Stevens Institute of Technology
 
 * School of Engineering & Science
-  * [Cybersecurity, BS](https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science/graduate-programs/cybersecurity-masters-program)
-  * [Cybersecurity, MS](https://www.stevens.edu/schaefer-school-engineering-science/departments/computer-science/graduate-programs/cybersecurity-masters-program)
-  
+  * [Center for Advanced of Secure Systems and Information Assurance (CASSIA)](https://www.stevens.edu/research-entrepreneurship/research-centers-labs/center-advancement-secure-systems-and-information-assurance-cassia)
