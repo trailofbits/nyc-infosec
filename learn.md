@@ -55,9 +55,17 @@ permalink: /learn/
   * [OSIRIS Lab](http://osiris.cyber.nyu.edu/)
 * School of Law
   * [Center for Law & Security](http://www.lawandsecurity.org/)
+* School of Law / School of Engineering (Joint)
+  * [Cybersecurity Risk and Strategy, MS](https://cybersecurity-strategy-masters.nyu.edu/)
 * School of Professional Studies
   * [Diploma in Cyber Security](https://www.sps.nyu.edu/professional-pathways/diplomas/technology/cybersecurity.html)
 
 ## Recurse Center
 
 * [Recurse Center](https://www.recurse.com)
+
+## Stevens Institute of Technology
+
+* School of Engineering & Science
+  * [Center for Advancement of Secure Systems and Information Assurance (CASSIA)](https://www.stevens.edu/research-entrepreneurship/research-centers-labs/center-advancement-secure-systems-and-information-assurance-cassia)
+  
