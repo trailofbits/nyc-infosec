@@ -33,6 +33,7 @@ permalink: /companies/
 * [Avanan](https://www.avanan.com/)
 * [Backtrace](https://backtrace.io)
 * [Capsule8](https://capsule8.io/)
+* [Claroty](https://www.claroty.com/)
 * [Confiant](https://www.confiant.com/)
 * [Confide](https://getconfide.com/)
 * [Dashlane](https://www.dashlane.com/)
