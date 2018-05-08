@@ -41,7 +41,6 @@ permalink: /companies/
 * [Dyadic Security](https://www.dyadicsec.com/)
 * [Flashpoint Intel](https://www.flashpoint-intel.com/)
 * [Hypr Biometric Security](https://www.hypr.com/)
-* [Kisi](https://www.getkisi.com/)
 * [PhishMe](https://phishme.com/)
 * [Private Machines](https://privatemachines.com/)
 * [Red Balloon Security](https://www.redballoonsecurity.com/)
