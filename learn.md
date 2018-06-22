@@ -41,6 +41,11 @@ permalink: /learn/
 * School of Computer and Information Science (CIS)
   * [Cybersecurity, MS](http://www.fordham.edu/info/25706/master_of_science_in_cybersecurity)
 
+## John Jay College of Criminal Justine
+
+* [Computer Science and Information Security (BS)](http://www.jjay.cuny.edu/computer-science-and-information-security-bs)
+* [Master of Science in Digital Forensics and Cybersecurity](https://www.jjay.cuny.edu/master-science-digital-forensics-and-cybersecurity) (D4CS)
+
 ## New York Institute of Technology
 
 * School of Engineering & Computing Sciences
@@ -67,5 +72,5 @@ permalink: /learn/
 ## Stevens Institute of Technology
 
 * School of Engineering & Science
-  * [Center for Advancement of Secure Systems and Information Assurance (CASSIA)](https://www.stevens.edu/research-entrepreneurship/research-centers-labs/center-advancement-secure-systems-and-information-assurance-cassia)
+  * [Center for Advancement of Secure Systems and Information Assurance](https://www.stevens.edu/research-entrepreneurship/research-centers-labs/center-advancement-secure-systems-and-information-assurance-cassia) (CASSIA)
   
