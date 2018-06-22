@@ -43,7 +43,7 @@ permalink: /learn/
 
 ## John Jay College of Criminal Justine
 
-* [Computer Science and Information Security (BS)](http://www.jjay.cuny.edu/computer-science-and-information-security-bs)
+* [Computer Science and Information Security, BS](http://www.jjay.cuny.edu/computer-science-and-information-security-bs)
 * [Master of Science in Digital Forensics and Cybersecurity](https://www.jjay.cuny.edu/master-science-digital-forensics-and-cybersecurity) (D4CS)
 
 ## New York Institute of Technology
