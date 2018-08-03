@@ -30,7 +30,6 @@ permalink: /companies/
 
 ## Products
 
-* [Allure Security](https://www.alluresecurity.com/)
 * [Avanan](https://www.avanan.com/)
 * [Backtrace](https://backtrace.io)
 * [BigID](https://bigid.com/)
