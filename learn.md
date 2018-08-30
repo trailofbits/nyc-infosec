@@ -12,6 +12,7 @@ permalink: /learn/
 * [Per Scholas](https://perscholas.org/apply/cybersecurity)
 * [Securing Your Path](http://www.securingyourpath.com/)
 * [Year Up](https://www.yearup.org/)
+* [Zero Day Camp](https://zeroday.camp/)
 
 ## Cardozo Law
 
