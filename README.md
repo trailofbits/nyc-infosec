@@ -8,26 +8,14 @@ footer: an event
 
 ## Meetups
 
-* [Empire Hacking](https://www.empirehacking.nyc)
-* [NCC Open Forum NYC](https://www.meetup.com/NCCOpenForumNYC/)
-* [NY Enterprise Information Security](https://www.meetup.com/NY-Enterprise-Information-Security-Meetup/)
-* [NYM InfraGard](https://www.nym-infragard.us/)
-* [NYM ISACA](http://www.isaca.org/chapters2/New-York-Metropolitan/Pages/default.aspx)
-* [NYM ISSA](https://www.nymissa.org/)
-* [NYSEC](https://twitter.com/nysecsec)
-* OWASP [NYC](https://www.meetup.com/owaspnycmetro/) and [Brooklyn](https://www.meetup.com/OWASP-Brooklyn/)
+* [OWASP-SD](https://www.meetup.com/Open-Web-Application-Security-Project-San-Diego-OWASP-SD/)
+* [DEF CON SD](https://www.dc858.org/)
 
 ## Conferences
 
-* [BSides NYC](https://bsidesnyc.org/) (January)
-* [Hack NYC](https://q22018.hacknyc.com/en/) (May)
-* [International Conference on Cyber Security](http://iccs.fordham.edu/) (July)
-* [SummerCon](http://summercon.org/) (June)
-* [NYIT Cybersecurity Conference](http://www.nyit.edu/events/annual_cybersecurity_conference) (September)
-* [AT&T Cybersecurity](https://www.att.com/att/securityconference/) (October)
-* [NY Metro Joint Cyber Security Conference](http://nymjcsc.org/) (October)
-* [O’Reilly Security](http://conferences.oreilly.com/security/network-data-security-ny) (October)
-* [NYU CSAW](https://csaw.engineering.nyu.edu/) (November)
+* [Toorcon](https://sandiego.toorcon.net/) (September)
+* [Qualcomm Mobile Security Summit](https://www.qualcomm.com/company/product-security/resources) (May)
+* [BSides San Diego](https://www.securitybsides.com/w/page/107007549/BSidesSanDiego) (June)
 
 ## [Event Calendar](https://calendar.google.com/calendar/embed?src=trailofbits.com_u4ugmlhgr0nf58s1ji8fteed2k%40group.calendar.google.com&ctz=America/New_York)
 
