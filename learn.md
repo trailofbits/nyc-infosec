@@ -42,7 +42,7 @@ permalink: /learn/
 * School of Computer and Information Science (CIS)
   * [Cybersecurity, MS](http://www.fordham.edu/info/25706/master_of_science_in_cybersecurity)
 
-## John Jay College of Criminal Justine
+## John Jay College of Criminal Justice
 
 * [Computer Science and Information Security, BS](http://www.jjay.cuny.edu/computer-science-and-information-security-bs)
 * [Master of Science in Digital Forensics and Cybersecurity](https://www.jjay.cuny.edu/master-science-digital-forensics-and-cybersecurity) (D4CS)
