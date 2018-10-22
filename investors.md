@@ -16,6 +16,7 @@ permalink: /investors/
 
 # Accelerators
 * [FinTech Innovation Lab](http://fintechinnovationlab.com/new-york/)
+* [Global Cyber Center](https://sosa.co/industry-expertise/cyber/)
 * [Grand Central Tech](http://grandcentraltech.com/)
 * [HUB.NYC](http://hub.nyc/)
 * [MState](https://www.mstate.io/)
