@@ -54,6 +54,7 @@ permalink: /companies/
 * [Symphony](https://symphony.com/)
 * [UpLevel Security](https://www.uplevelsecurity.com/)
 * [Varonis](https://www.varonis.com/)
+* [Qrypt](https://www.qrypt.com/)
 * [White Ops](https://www.whiteops.com/)
 * [Wickr](https://www.wickr.com/)
 
