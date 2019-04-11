@@ -61,6 +61,7 @@ permalink: /companies/
 * [UpLevel Security](https://www.uplevelsecurity.com/)
 * [Varonis](https://www.varonis.com/)
 * [Qrypt](https://www.qrypt.com/)
+* [Walrus Security](https://www.walrus.nyc/)
 * [White Ops](https://www.whiteops.com/)
 * [Wickr](https://www.wickr.com/)
 
