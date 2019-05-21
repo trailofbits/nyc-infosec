@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: NYC Infosec Community
-email: info@trailofbits.com
+title: San Diefo Infosec Community
+email: info@sdhackers.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.nyc-infosec.com" # the base hostname & protocol for your site
-twitter_username: trailofbits
-github_username:  trailofbits
+url: "https://sdhackers.com" # the base hostname & protocol for your site
+twitter_username: myhndl
+github_username:  myhndl
 
 # Build settings
 markdown: kramdown
