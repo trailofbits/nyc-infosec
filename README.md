@@ -13,8 +13,8 @@ footer: an event
 
 ## Conferences
 
-* [ToorCon](https://sandiego.toorcon.net/) 
 * [Qualcomm Product Security Summit](https://www.qualcomm.com/company/product-security/resources) (May)
+* [ToorCon](https://sandiego.toorcon.net/) (September)
 
 ## [Event Calendar]
 
