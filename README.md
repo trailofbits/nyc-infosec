@@ -15,7 +15,7 @@ footer: an event
 * [NYM ISACA](http://www.isaca.org/chapters2/New-York-Metropolitan/Pages/default.aspx)
 * [NYM ISSA](https://www.nymissa.org/)
 * [NYSEC](https://twitter.com/nysecsec)
-* OWASP [NYC](https://www.meetup.com/owaspnycmetro/) and [Brooklyn](https://www.meetup.com/OWASP-Brooklyn/)
+* OWASP [NYC](https://www.meetup.com/owaspnyc/)
 
 ## Conferences
 
