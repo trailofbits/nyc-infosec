@@ -9,6 +9,7 @@ permalink: /companies/
 ## Consulting
 
 * [BitFortress](http://www.bitfortress.com/)
+* [BlueVoyant](https://www.bluevoyant.com/)
 * [Breaking Bits](https://breakingbits.com/)
 * [Carbon Dynamics](https://www.carbondynamics.co/)
 * [Carve Systems](https://www.carvesystems.com/)
@@ -33,7 +34,6 @@ permalink: /companies/
 * [Avanan](https://www.avanan.com/)
 * [Backtrace](https://backtrace.io)
 * [BigID](https://bigid.com/)
-* [BlueVoyant](https://www.bluevoyant.com/)
 * [Capsule8](https://capsule8.io/)
 * [Claroty](https://www.claroty.com/)
 * [Confiant](https://www.confiant.com/)
