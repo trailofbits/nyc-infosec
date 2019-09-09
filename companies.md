@@ -20,6 +20,7 @@ permalink: /companies/
 * [LIFARS](https://lifars.com/)
 * [OccamSec](http://www.occamsec.com)
 * [Stroz Freidberg](https://www.strozfriedberg.com/)
+* [TAG Cyber](https://www.tag-cyber.com/)
 * [Virtue Security](https://www.virtuesecurity.com/)
 
 ## Research & Development
@@ -32,6 +33,7 @@ permalink: /companies/
 * [Avanan](https://www.avanan.com/)
 * [Backtrace](https://backtrace.io)
 * [BigID](https://bigid.com/)
+* [BlueVoyant](https://www.bluevoyant.com/)
 * [Capsule8](https://capsule8.io/)
 * [Claroty](https://www.claroty.com/)
 * [Confiant](https://www.confiant.com/)
