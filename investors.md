@@ -17,7 +17,7 @@ permalink: /investors/
 # Accelerators
 * [Dreamit Securetech](https://www.dreamit.com/securetech)
 * [FinTech Innovation Lab](http://fintechinnovationlab.com/new-york/)
-* [Global Cyber Center](https://sosa.co/industry-expertise/cyber/)
+* [SOSA Global Cyber Center](https://sosa.co/innovation-hubs-2/sosa-nyc/)
 * [Grand Central Tech](http://grandcentraltech.com/)
 * [HUB.NYC](http://hub.nyc/)
 * [MState](https://www.mstate.io/)
