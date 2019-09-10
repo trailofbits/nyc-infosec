@@ -19,6 +19,6 @@ permalink: /investors/
 * [FinTech Innovation Lab](http://fintechinnovationlab.com/new-york/)
 * [SOSA Global Cyber Center](https://sosa.co/innovation-hubs-2/sosa-nyc/)
 * [Grand Central Tech](http://grandcentraltech.com/)
-* [HUB.NYC](http://hub.nyc/)
+* [JVP HUB.NYC](http://hub.nyc/)
 * [MState](https://www.mstate.io/)
 * [NYC Venture Fellows](http://nycventurefellows.org/)
