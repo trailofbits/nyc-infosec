@@ -31,6 +31,7 @@ permalink: /companies/
 
 ## Products
 
+* [Atakama](https://www.atakama.com/)
 * [Avanan](https://www.avanan.com/)
 * [Backtrace](https://backtrace.io)
 * [BigID](https://bigid.com/)
@@ -43,7 +44,9 @@ permalink: /companies/
 * [Dashlane](https://www.dashlane.com/)
 * [Dispel](https://dispel.io/)
 * [Dyadic Security](https://www.dyadicsec.com/)
+* [Edwin](https://www.edwinsecure.com/)
 * [Flashpoint Intel](https://www.flashpoint-intel.com/)
+* [Fraud.net](https://fraud.net/)
 * [Hypr Biometric Security](https://www.hypr.com/)
 * [Indegy](https://indegy.com/)
 * [NoFraud](https://nofraud.com/)
