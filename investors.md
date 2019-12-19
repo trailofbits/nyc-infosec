@@ -5,6 +5,7 @@ permalink: /investors/
 ---
 
 # Venture Funding
+* [645 Ventures](https://www.645ventures.com/) (Alessio Fanelli)
 * [Bessemer](https://www.bvp.com/) (Bob Goodman)
 * [boldstart](http://www.boldstart.vc/) (Ed Sim)
 * [ClearSky](http://www.clear-sky.com/) (Jay Leek)
