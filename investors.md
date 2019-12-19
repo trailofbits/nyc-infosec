@@ -13,6 +13,7 @@ permalink: /investors/
 * [hack/secure](http://www.hacksecure.org) (Dan Guido)
 * [Insight](https://www.insightpartners.com/) (Mike Triplett)
 * [Work-Bench](https://www.work-bench.com/) (Kelley Mak)
+* [645 Ventures](https://www.645ventures.com/) (Alessio Fanelli)
 
 # Accelerators
 * [Cyber NYC Inventors to Founders](https://labtomarket.columbia.edu/cyber-nyc)
