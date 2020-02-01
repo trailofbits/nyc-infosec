@@ -41,6 +41,7 @@ permalink: /companies/
 * [Confide](https://getconfide.com/)
 * [Criptext](https://criptext.com/)
 * [Cyberfense](https://cyberfense.com/)
+* [Cylera](https://www.cylera.com/)
 * [Dashlane](https://www.dashlane.com/)
 * [Dispel](https://dispel.io/)
 * [Dyadic Security](https://www.dyadicsec.com/)
