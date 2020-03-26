@@ -56,6 +56,7 @@ permalink: /companies/
 * [Private Machines](https://privatemachines.com/)
 * [Red Balloon Security](https://www.redballoonsecurity.com/)
 * [Reval](https://www.reval.com/)
+* [Scope Security](https://www.scopesecurity.com/)
 * [SecureMySocial](https://www.securemysocial.com/)
 * [Security Scorecard](https://securityscorecard.com/)
 * [Semperis](https://semperis.com/)
