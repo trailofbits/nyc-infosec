@@ -39,7 +39,6 @@ permalink: /companies/
 * [Claroty](https://www.claroty.com/)
 * [Confiant](https://www.confiant.com/)
 * [Confide](https://getconfide.com/)
-* [Criptext](https://criptext.com/)
 * [Cyberfense](https://cyberfense.com/)
 * [Cylera](https://www.cylera.com/)
 * [Dashlane](https://www.dashlane.com/)
