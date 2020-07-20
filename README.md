@@ -12,10 +12,10 @@ footer: an event
 * [NCC Open Forum NYC](https://www.meetup.com/NCCOpenForumNYC/)
 * [NY Enterprise Information Security](https://www.meetup.com/NY-Enterprise-Information-Security-Meetup/)
 * [NYM InfraGard](https://www.nym-infragard.us/)
-* [NYM ISACA](http://www.isaca.org/chapters2/New-York-Metropolitan/Pages/default.aspx)
-* [NYM ISSA](https://www.nymissa.org/)
+* [NYM ISACA](https://engage.isaca.org/newyorkmetropolitanchapter/home)
 * [NYSEC](https://twitter.com/nysecsec)
 * OWASP [NYC](https://www.meetup.com/owaspnyc/)
+* [WiCyS NY Metro](https://www.wicysnymetro.org/)
 
 ## Conferences
 
