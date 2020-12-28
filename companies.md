@@ -100,6 +100,7 @@ permalink: /companies/
 * [Protiviti](https://www.protiviti.com/)
 * [MWR InfoSecurity](https://www.mwrinfosecurity.com/)
 * [NCC Group](https://www.nccgroup.trust/us/)
+* [Nisos](https://www.nisos.com/)
 * [Signal Sciences](https://www.signalsciences.com)
 * [Square](https://squareup.com/)
 * [Yahoo!](https://www.yahoo.com/)
