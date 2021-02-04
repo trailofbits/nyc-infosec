@@ -35,6 +35,7 @@ permalink: /companies/
 * [Avanan](https://www.avanan.com/)
 * [Backtrace](https://backtrace.io)
 * [BigID](https://bigid.com/)
+* [Cape Privacy](https://capeprivacy.com/)
 * [Capsule8](https://capsule8.io/)
 * [Claroty](https://www.claroty.com/)
 * [Confiant](https://www.confiant.com/)
