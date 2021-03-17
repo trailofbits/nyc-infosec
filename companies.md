@@ -10,8 +10,6 @@ permalink: /companies/
 
 * [BitFortress](http://www.bitfortress.com/)
 * [BlueVoyant](https://www.bluevoyant.com/)
-* [Breaking Bits](https://breakingbits.com/)
-* [Carbon Dynamics](https://www.carbondynamics.co/)
 * [Carve Systems](https://www.carvesystems.com/)
 * [CipherTechs](https://www.ciphertechs.com/)
 * [Gotham Digital Science](https://www.gdssecurity.com/)
