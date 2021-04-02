@@ -103,6 +103,7 @@ permalink: /companies/
 * [Nisos](https://www.nisos.com/)
 * [Signal Sciences](https://www.signalsciences.com)
 * [Square](https://squareup.com/)
+* [Sublime Security](https://sublimesecurity.com)
 * [Yahoo!](https://www.yahoo.com/)
 
 ## Recruiting
