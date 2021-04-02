@@ -62,6 +62,7 @@ permalink: /companies/
 * [Siemplify](https://www.siemplify.co/)
 * [Socure](https://www.socure.com/)
 * [Spirion](https://www.spirion.com/)
+* [Sublime Security](https://sublimesecurity.com)
 * [Symphony](https://symphony.com/)
 * [UpLevel Security](https://www.uplevelsecurity.com/)
 * [Varonis](https://www.varonis.com/)
