@@ -83,6 +83,7 @@ permalink: /companies/
 * [MongoDB](https://www.mongodb.com/)
 * [The New York Times](https://www.nytimes.com/)
 * [Peloton](https://www.onepeloton.com)
+* [Planned Parenthood Federation of America](https://plannedparenthood.org)
 * [Spotify](https://www.spotify.com/)
 * [Squarespace](https://www.squarespace.com/)
 * [Tumblr](https://www.tumblr.com/)
