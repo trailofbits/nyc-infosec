@@ -18,6 +18,7 @@ permalink: /companies/
 * [Kroll](http://www.kroll.com/en-us)
 * [LIFARS](https://lifars.com/)
 * [OccamSec](http://www.occamsec.com)
+* [Overseer](https://www.ovrsr.com/)
 * [Stroz Freidberg](https://www.strozfriedberg.com/)
 * [TAG Cyber](https://www.tag-cyber.com/)
 * [Virtue Security](https://www.virtuesecurity.com/)
