@@ -8,10 +8,12 @@ permalink: /learn/
 
 ## Bootcamps
 
+* [Columbia University, by 2U](https://bootcamp.cvn.columbia.edu/cybersecurity/)
+* [Flatiron School](https://flatironschool.com/campus-and-online-cybersecurity-engineering-bootcamp/)
 * [Fullstack Cyber Academy](https://cyber.fullstackacademy.com/)
 * [NPower](http://www.npower.org/Locations/New-York.aspx)
+* [NYU, by HackerUSA](https://cybersecurityskills.sps.nyu.edu/)
 * [Per Scholas](https://perscholas.org/apply/cybersecurity)
-* [Securing Your Path](http://www.securingyourpath.com/)
 * [Year Up](https://www.yearup.org/)
 
 ## Cardozo Law
