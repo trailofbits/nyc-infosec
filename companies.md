@@ -12,6 +12,7 @@ permalink: /companies/
 * [BlueVoyant](https://www.bluevoyant.com/)
 * [Carve Systems](https://www.carvesystems.com/)
 * [CipherTechs](https://www.ciphertechs.com/)
+* [GEM Technologies](https://gemtechnologies.net/)
 * [Gotham Digital Science](https://www.gdssecurity.com/)
 * [Include Security](https://www.includesecurity.com/)
 * [K2 Intelligence](https://www.k2intelligence.com/)
