@@ -50,6 +50,7 @@ permalink: /companies/
 * [Fraud.net](https://fraud.net/)
 * [Hypr Biometric Security](https://www.hypr.com/)
 * [Indegy](https://indegy.com/)
+* [Laika](https://heylaika.com/)
 * [NoFraud](https://nofraud.com/)
 * [NopSec](https://www.nopsec.com/)
 * [PhishMe](https://phishme.com/)
