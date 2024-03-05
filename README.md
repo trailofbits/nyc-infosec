@@ -15,7 +15,7 @@ footer: an event
 * [NYM InfraGard](https://www.nym-infragard.us/)
 * [NYM ISACA](https://engage.isaca.org/newyorkmetropolitanchapter/home)
 * [NYSEC](https://twitter.com/nysecsec)
-* [OWASP NYC]([https://www.meetup.com/owaspnyc/](https://www.meetup.com/OWASP-New-York-City-Chapter/))
+* [OWASP NYC](https://www.meetup.com/OWASP-New-York-City-Chapter/)
 * [WiCyS NY Metro](https://www.wicysnymetro.org/)
 
 ## Conferences
