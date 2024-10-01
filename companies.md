@@ -42,7 +42,6 @@ permalink: /companies/
 * [Hypr Biometric Security](https://www.hypr.com/)
 * [NoFraud](https://nofraud.com/)
 * [NopSec](https://www.nopsec.com/)
-* [PhishMe](https://phishme.com/)
 * [Private Machines](https://privatemachines.com/)
 * [Red Balloon Security](https://www.redballoonsecurity.com/)
 * [SecureMySocial](https://www.securemysocial.com/)
