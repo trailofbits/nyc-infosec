@@ -11,29 +11,29 @@ permalink: /learn/
 * [Columbia University, by 2U](https://bootcamp.cvn.columbia.edu/cybersecurity/)
 * [Flatiron School](https://flatironschool.com/campus-and-online-cybersecurity-engineering-bootcamp/)
 * [Fullstack Cyber Academy](https://cyber.fullstackacademy.com/)
-* [NPower](http://www.npower.org/Locations/New-York.aspx)
-* [NYU, by HackerUSA](https://cybersecurityskills.sps.nyu.edu/)
-* [Per Scholas](https://perscholas.org/apply/cybersecurity)
+* [The Lede Program](https://ledeprogram.com/)
+* [NPower](https://www.npower.org/locations/new-york/)
+* [Per Scholas](https://perscholas.org/courses/cybersecurity/cybersecurity-new-york/)
 * [Year Up](https://www.yearup.org/)
 
 ## Cardozo Law
 
-* [Cardozo Data Law Initiative](https://cardozo.yu.edu/CDLI) (CDLI)
+* [Cardozo Data Law Initiative](https://cardozo.yu.edu/cardozo-data-law-initiative) (CDLI)
 
 ## Columbia University
 
 * School of Engineering and Applied Science (SEAS)
-  * [Security & Privacy Research Area](https://www.cs.columbia.edu/areas/security-privacy/)
-  * [Network Security Lab](http://nsl.cs.columbia.edu/) (NSL)
-  * [Intrusion Detection Lab](http://ids.cs.columbia.edu/) (IDS)
+  * [Crypto Lab](https://www.cs.columbia.edu/crypto/)
   * [Computer Architecture and Security Technologies](http://castl.cs.columbia.edu/) (CASTL)
+  * [Intrusion Detection Lab](http://ids.cs.columbia.edu/) (IDS)
+  * [Security & Privacy Research Area](https://www.cs.columbia.edu/areas/security/)
 * School of International and Public Affairs (SIPA)
-  * [International Security Policy](https://sipa.columbia.edu/academics/concentrations/international-security-policy)
+  * [SIPA Cyber](https://www.sipa.columbia.edu/global-research-impact/initiatives/cyber)
 * School of Journalism
-  * [Data Concentration Program](https://journalism.columbia.edu/data)
-  * [Journalism & Computer Science](https://journalism.columbia.edu/journalism-computer-science)
+  * [M.S. Data Journalism](https://journalism.columbia.edu/ms-data-journalism)
+  * [Tow Center for Digital Journalism](https://towcenter.columbia.edu/)
 * School of Law
-  * [National Security Law](http://web.law.columbia.edu/national-security-law)
+  * [National Security Law](https://nsl.law.columbia.edu/)
 
 ## Cornell Tech
 
