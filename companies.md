@@ -10,14 +10,9 @@ permalink: /companies/
 
 * [BitFortress](http://www.bitfortress.com/)
 * [BlueVoyant](https://www.bluevoyant.com/)
-* [Carve Systems](https://www.carvesystems.com/)
-* [CipherTechs](https://www.ciphertechs.com/)
 * [GEM Technologies](https://gemtechnologies.net/)
-* [Gotham Digital Science](https://www.gdssecurity.com/)
 * [Include Security](https://www.includesecurity.com/)
-* [K2 Intelligence](https://www.k2intelligence.com/)
 * [Kroll](http://www.kroll.com/en-us)
-* [LIFARS](https://lifars.com/)
 * [OccamSec](http://www.occamsec.com)
 * [Overseer](https://www.ovrsr.com/)
 * [Stroz Freidberg](https://www.strozfriedberg.com/)
@@ -26,52 +21,40 @@ permalink: /companies/
 
 ## Research & Development
 
-* [Reservoir Labs](https://www.reservoir.com/)
 * [Trail of Bits](https://www.trailofbits.com/)
 
 ## Products
 
 * [Atakama](https://www.atakama.com/)
-* [Avanan](https://www.avanan.com/)
 * [Backtrace](https://backtrace.io)
 * [BigID](https://bigid.com/)
 * [Cape Privacy](https://capeprivacy.com/)
-* [Capsule8](https://capsule8.io/)
 * [Claroty](https://www.claroty.com/)
 * [Confiant](https://www.confiant.com/)
 * [Confide](https://getconfide.com/)
-* [Cyberfense](https://cyberfense.com/)
 * [Cylera](https://www.cylera.com/)
 * [Dashlane](https://www.dashlane.com/)
 * [Dispel](https://dispel.io/)
-* [Dyadic Security](https://www.dyadicsec.com/)
 * [Edwin](https://www.edwinsecure.com/)
 * [Flashpoint Intel](https://www.flashpoint-intel.com/)
 * [Fraud.net](https://fraud.net/)
+* [HUMAN](https://www.humansecurity.com/)
 * [Hypr Biometric Security](https://www.hypr.com/)
-* [Indegy](https://indegy.com/)
-* [Laika](https://heylaika.com/)
 * [NoFraud](https://nofraud.com/)
 * [NopSec](https://www.nopsec.com/)
 * [PhishMe](https://phishme.com/)
 * [Private Machines](https://privatemachines.com/)
 * [Red Balloon Security](https://www.redballoonsecurity.com/)
-* [Reval](https://www.reval.com/)
-* [Scope Security](https://www.scopesecurity.com/)
 * [SecureMySocial](https://www.securemysocial.com/)
 * [Security Scorecard](https://securityscorecard.com/)
 * [Semperis](https://semperis.com/)
 * [SendSafely](https://www.sendsafely.com/)
-* [Siemplify](https://www.siemplify.co/)
 * [Socure](https://www.socure.com/)
 * [Spirion](https://www.spirion.com/)
 * [Sublime Security](https://sublimesecurity.com)
 * [Symphony](https://symphony.com/)
-* [UpLevel Security](https://www.uplevelsecurity.com/)
 * [Varonis](https://www.varonis.com/)
 * [Qrypt](https://www.qrypt.com/)
-* [Walrus Security](https://www.walrus.nyc/)
-* [White Ops](https://www.whiteops.com/)
 * [Wickr](https://www.wickr.com/)
 
 ## Security Teams
@@ -95,8 +78,10 @@ permalink: /companies/
 
 ## Remote Offices
 * [Amazon](https://www.amazon.com/)
+* [Aon](https://www.aon.com/en/capabilities/cyber-resilience/penetration-testing-services)
 * [Aspect Security](http://www.aspectsecurity.com/)
 * [Bishop Fox](https://www.bishopfox.com/)
+* [CipherTechs](https://www.cybermaxx.com/)
 * [CrowdStrike](https://www.crowdstrike.com/)
 * [Facebook](https://www.facebook.com/)
 * [FireEye](https://www.fireeye.com/)
@@ -112,4 +97,4 @@ permalink: /companies/
 * [Yahoo!](https://www.yahoo.com/)
 
 ## Recruiting
-* [LJ Kushner & Associates](http://ljkushner.com/)
+* add some!
