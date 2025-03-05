@@ -13,7 +13,7 @@ permalink: /companies/
 * [GEM Technologies](https://gemtechnologies.net/)
 * [Include Security](https://www.includesecurity.com/)
 * [Kroll](http://www.kroll.com/en-us)
-* [OccamSec](http://www.occamsec.com)
+* [OSec](http://www.osec.com)
 * [Overseer](https://www.ovrsr.com/)
 * [Stroz Freidberg](https://www.strozfriedberg.com/)
 * [TAG Cyber](https://www.tag-cyber.com/)
