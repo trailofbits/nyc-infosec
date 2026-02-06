@@ -10,6 +10,7 @@ permalink: /companies/
 
 * [BlueVoyant](https://www.bluevoyant.com/)
 * [GEM Technologies](https://gemtechnologies.net/)
+* [Granitt](https://granitt.io/)
 * [Include Security](https://www.includesecurity.com/)
 * [Kroll](https://www.kroll.com/en-us)
 * [TAG Cyber](https://www.tag-cyber.com/)
