@@ -56,6 +56,7 @@ permalink: /companies/
 * [Symphony](https://symphony.com/)
 * [Teleskope](https://www.teleskope.ai/)
 * [Varonis](https://www.varonis.com/)
+* [Zenity](https://zenity.io/)
 * [Zip Security](https://www.zipsec.com/)
 
 ## Security Teams
