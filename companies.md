@@ -12,6 +12,7 @@ permalink: /companies/
 * [GEM Technologies](https://gemtechnologies.net/)
 * [Include Security](https://www.includesecurity.com/)
 * [Kroll](https://www.kroll.com/en-us)
+* [TAG Cyber](https://www.tag-cyber.com/)
 * [Virtue Security](https://www.virtuesecurity.com/)
 
 ## Research & Development
