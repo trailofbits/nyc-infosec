@@ -44,6 +44,7 @@ permalink: /companies/
 * [Legion Security](https://www.legionsecurity.ai/)
 * [Mitiga](https://www.mitiga.io/)
 * [NoFraud](https://nofraud.com/)
+* [North Pole Security](https://northpole.security)
 * [NopSec](https://www.nopsec.com/)
 * [ORION Security](https://www.orionsec.io/)
 * [Outtake](https://www.outtake.ai/)
