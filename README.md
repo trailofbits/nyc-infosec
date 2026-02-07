@@ -21,6 +21,7 @@ footer: an event
 
 * [SummerCon](https://www.summercon.org/) (~July)
 * [International Conference on Cyber Security](https://www.fordham.edu/iccs) (~July)
+* [BSidesNYC](https://bsidesnyc.org/) (~October)
 * [NY Metro Joint Cyber Security Conference](https://nymjcsc.org/) (~October)
 * [NYU CSAW](https://www.csaw.io/) (~November)
 
