@@ -13,7 +13,7 @@ footer: an event
 * [NYC Systems](https://nycsystems.xyz/)
 * [NYM InfraGard](https://www.nym-infragard.us/)
 * [NYM ISACA](https://engage.isaca.org/newyorkmetropolitanchapter/home)
-* [NYSEC](https://nysec.io/)
+* [NYSEC](http://nysec.io/)
 * [OWASP NYC](https://www.meetup.com/OWASP-New-York-City-Chapter/)
 * [The Sprawl](https://luma.com/calendar/cal-ukxTTZLnd6wSeFk)
 
