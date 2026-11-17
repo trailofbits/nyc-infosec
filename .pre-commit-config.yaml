@@ -1,0 +1,26 @@
+repos:
+  - repo: local
+    hooks:
+      - id: ruby-syntax
+        name: Check Gemfile syntax
+        entry: ruby -c Gemfile
+        language: system
+        files: ^Gemfile$
+        pass_filenames: false
+      - id: jekyll-build
+        name: Build Jekyll site
+        entry: bundle exec jekyll build --trace
+        language: system
+        pass_filenames: false
+      - id: actionlint
+        name: Check GitHub Actions syntax
+        entry: actionlint
+        language: system
+        files: ^\.github/workflows/
+        pass_filenames: false
+      - id: zizmor
+        name: Check GitHub Actions security
+        entry: zizmor --offline .
+        language: system
+        files: ^\.github/
+        pass_filenames: false
